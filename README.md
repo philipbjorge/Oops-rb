@@ -1,6 +1,8 @@
 Oops-rb
 =======
 
+Note: GuessMethod is a similar package with many more features - http://guessmethod.rubyforge.org/
+
 Fuzzy method invocation in Ruby
 
 Oops overrides BasicObject's method_missing function with spell-checking functionality
