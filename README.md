@@ -10,15 +10,19 @@ which attempts to find a closely matching method (by spelling) and executing it.
 
 I'm confident that this will improve all programmer's productivity.
 
-Known Limitations and Flaws:
+##Known Limitations:
 * Only trys matches within edit-distance 1
 
-Dependencies:
+##Dependencies:
 * damerau-levenshtein
 
-Release History:
-First Release
+##Release History:
+####First Release Addendum
+* Included License
+* Introduced Project Logo
+
+####First Release
 * Initial basic implementation.
 
 Done for a laugh.
-BSD Style License
+Check out [Smackit-rb](https://github.com/philipbjorge/Smackit-rb), my nostalgic ruby reset method.
