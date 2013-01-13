@@ -1,6 +1,6 @@
 Oops-rb
 =======
-![oops logo](https://raw.github.com/philipbjorge/Smackit-rb/master/logo.png "Oops")
+![oops logo](https://raw.github.com/philipbjorge/Oops-rb/master/logo.png "Oops")
 
 Note: GuessMethod is a similar package with many more features - http://guessmethod.rubyforge.org/
 
